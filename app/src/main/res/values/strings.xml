@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Feel Good Inc</string>
+
+    <!--Tutorial page strings-->
+    <string name="tut_content_desc">Graphic of a woman with flowers blooming from her head</string>
+    <string name="tut_1_text">Welcome to Feel Good Inc.</string>
+    <string name="tut_2_text">A daily mental health journaling tool</string>
+    <string name="tut_3_text">Select your current mood\n\nWrite a log\n\nSee trends\nover time\n\nFeel Good!</string>
+    <string name="eula_accept">Accept</string>
+    <string name="eula">
+                Feel Good Inc. should not be viewed as a substitute for therapy or other psychological or
+                psychiatric treatment, nor should they be considered a substitute for a diagnosis or
+                medical advice.\n\nNotwithstanding the scientific research on journaling, Feel Good Inc. makes no representation
+                or warranty that the User’s mental health will improve. Reliance on the Apps and the
+                information they contain is strictly at the User’s risk. If the App licensee has been
+                diagnosed with a psychiatric condition they may wish to speak to their medical
+                practitioner before use.\n\nFeel Good Inc. makes no representation or warranty that the Apps will prevent, cure or treat
+                diseases, disorders or conditions, including those related to cognition and the brain, but
+                not limited to such.\n\nFeel Good Inc. has designed the Apps for general information purposes only. We make no
+                representation or warranty regarding accuracy, completeness, suitability and safety. The
+                User assumes full responsibility and Feel Good Inc. is not liable for any consequences resulting
+                from reliance.\n\nThe Apps should not be viewed as a substitute for addiction or rehabilitation programmes.
+                Some of the Apps are designed to increase productivity and help manage habits. Although
+                the User may find them helpful in overcoming addictions, Feel Good Inc. makes no
+                representation or warranty that they are fit for this purpose. The App licensee should not
+                delay in obtaining such intervention as a result of usage.\n\n
+    </string>
+    <!--Nav bar strings-->
+    <string name="activities">Activities</string>
+    <string name="add_mood">Add mood</string>
+    <string name="home">Home</string>
+    <string name="resources">Resources</string>
+    <string name="account">Account</string>
+    <string name="tutorial">Tutorial</string>
+    <!--Account page strings-->
+    <string name="email_example">exampleuser@feelgood.com</string>
+    <string name="email_tag">Email:</string>
+    <string name="change_password">Change Password</string>
+    <string name="enter_new_password_tag">Enter New Password:</string>
+    <string name="enter_password">Enter password</string>
+    <string name="submit">Submit</string>
+
+    <string name="activity_image">Activity Image</string>
+    <!--Breathing activity strings-->
+    <string name="breathe_in">Breathe in</string>
+    <string name="breathe_out">Breathe out</string>
+    <string name="congratulations">Congratulations, you have finished this activity!</string>
+    <string name="close_activity">Close activity</string>
+    <!--Grounding activity strings-->
+    <string name="enter_one_thing_you_can_see">Enter one thing you can see</string>
+    <string name="enter_one_thing_you_can_touch">Enter one thing you can touch</string>
+    <string name="enter_one_thing_you_can_hear">Enter one thing you can hear</string>
+    <string name="enter_one_thing_you_can_smell">Enter one thing you can smell</string>
+    <string name="enter_one_thing_you_can_taste">Enter one thing you can taste</string>
+    <string name="fields_cannot_be_left_empty">Fields cannot be left empty</string>
+    <string name="what_do_you_smell">What do you smell?</string>
+    <string name="smell">smell</string>
+    <string name="what_do_you_hear">What do you hear?</string>
+    <string name="hear">hear</string>
+    <string name="what_do_you_touch">What do you touch?</string>
+    <string name="touch">touch</string>
+    <string name="what_do_you_see">What do you see?</string>
+    <string name="sight">sight</string>
+    <string name="what_do_you_taste">What do you taste?</string>
+    <string name="taste">taste</string>
+    <!--Mood page strings-->
+    <string name="how_are_you_feeling">How are you feeling?</string>
+    <string name="how_s_going_today">How\'s going today?</string>
+    <string name="rad">Rad</string>
+    <string name="good">Good</string>
+    <string name="meh">Meh</string>
+    <string name="sad">Sad</string>
+    <string name="awful">Awful</string>
+    <string name="log_feeling">Log feeling</string>
+    <string name="let_s_write_about_it">Let\'s write about it</string>
+    <string name="date">DATE</string>
+    <string name="animal_sounds">Animal Sounds</string>
+    <string name="ocean_sounds">Ocean Sounds</string>
+    <string name="rainforest_sounds">Rainforest Sounds</string>
+    <string name="journalnamehint">Your journal name</string>
+
+
+
+    <!-- Log In/Sign Up Strings-->
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="email">Email</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="enter_old_password_tag">Enter Old Password</string>
+
+</resources>
